@@ -1,0 +1,7 @@
+fastapi==0.139.2
+uvicorn==0.51.0
+sqlalchemy==2.0.51
+pydantic==2.13.4
+PyMySQL==1.2.0
+mysql-connector-python==9.7.0
+email-validator==2.3.0
